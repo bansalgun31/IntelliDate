@@ -57,3 +57,7 @@ if (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0)) {
 ## Contributing
 
 If you'd like to improve the code (fix leap-year logic, add CLI args, format output), open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
